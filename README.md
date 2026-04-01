@@ -30,13 +30,14 @@
 + ProximityPromptCustomizer
 
 Currently working on:
+(Priorized)
 - Main Menu System
 - Metro System
 - HUD (Teamchanger, Gamepassshop, Settings)
 - Raid System
 - Compass UI
 - Topbar
-
+(Non Priorized)
 - Report player System
 - Server List
 - Soft Shutdown System
