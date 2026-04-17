@@ -1,7 +1,7 @@
-# Turkish Army FRAMEWORK CHANGELOG
+# Turkish Army FRAMEWORK v2 CHANGELOG
 
 # VERSION 
-`v.0.0.1_TR`
+`v.2.0.0_TR`
 
 # TESTING PLACE 
 `Soon`
@@ -15,7 +15,6 @@
 + TP Service
 + No Tool Service
 + Auto Team Service
-+ Auto Uniform Service
 + License Service
 + Leaderstats Service (Rank, Division, Money/Points)
 + Collidable Character
@@ -23,31 +22,37 @@
 + Webhook Sender
 
 # Systems
-+ Loading Screen
-+ Nametag System
-
+(need to be integrated in new Framework v2)
 # Packages
 + ProximityPromptCustomizer
 
 # Currently working on:
   (Priorized)
-- Main Menu System
-- Metro System
-- HUD (Teamchanger, Gamepassshop, Settings)
-- Raid System
+- Auto Uniform Service (works only on client => Problem: client cant acces mainConfig in Server )    [+]
+- Main Menu System                    	                                                             [+] 
+- Topbar                                                                                             [+]
+- Loading Screen                                                                                     [+]
+- Nametag System                                                                                     [+]
+- TrafficStop System                                                                                 [+]
+                                                                          
 - Compass UI
-- Topbar
+- Metro System
+- Raid System
+- HUD (Teamchanger, Gamepassshop, Settings)
+
+
 
   (Non Priorized)
 - Report player System
 - Server List
 - Soft Shutdown System
-- Interaction System with Authorization levels
 - Custom Admin System (based on cmdr)
 - Vehicle Spawner 
+
 - Anti Cheat
 - Anti Exploit
 - Cuff System
+- Interaction System with Authorization levels
 - Plane & Helicopter Chasis
 - Vehicle Chasis
 - Boat Chasis
