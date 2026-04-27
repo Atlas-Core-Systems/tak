@@ -1,7 +1,7 @@
 # Turkish Army FRAMEWORK v2 CHANGELOG
 
 # VERSION 
-`v.2.2.0_TR`
+`v.2.2.3_TR`
 
 # TESTING PLACE 
 [Open Place](https://www.roblox.com/games/100011157274713/Turkish-Army-FRAMEWORK-v2)
