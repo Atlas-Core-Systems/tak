@@ -4,8 +4,19 @@
 `v.2.2.0_TR`
 
 # TESTING PLACE 
-`[Open](https://www.roblox.com/games/100011157274713/Turkish-Army-FRAMEWORK-v2)`
+[Open Place](https://www.roblox.com/games/100011157274713/Turkish-Army-FRAMEWORK-v2)
 
+# CHANGELOGS
+```md
+# core v2.2.4- [27/04/26]
++ WebhookSender Function
++ Device Detector Function
+
+# core v2.2.3- [24/04/26]
++ Clean Client Server Seperation
++ Secruity Fixes
+
+```
 # INCLUDES
 
 ```md
@@ -29,6 +40,10 @@
 + Leaderboard (Rank, Division, Money)
 + License Service
 + No Tool Service
++ AccountAgeService (Webhook)
++ JoinLeave Logs (Webhook)
++ Team Activity Logs (Webhook)
++ Chatlogs (Webhooks)
 
 # Systems
 (need to be integrated in new Framework v2)
