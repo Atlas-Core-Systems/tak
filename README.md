@@ -8,17 +8,23 @@
 
 # CHANGELOGS
 ```md
-# core v2.2.3- [27/04/26]
+
+# core v2.2.4 - [28/04/26]
+## (added)
++ Notification Function (Client / Server, Standart and Custom Notifications)
+
+# core v2.2.3 - [25/04/26]
 ## (added)
 + WebhookSender Function
 + Device Detector Function
 
-# core v2.2.0- [23/04/26]
+# core v2.2.0 - [23/04/26]
 ## (changed)
 + Rework Folder Structure
 + Path Structure Rework
++ Architecture Rework
 
-# core v2.2.0- [21/04/26]
+# core v2.2.0 - [21/04/26]
 ## (changed, added)
 + Clean Client Server Structure
 + Security Fixes
